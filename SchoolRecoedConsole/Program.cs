@@ -42,9 +42,7 @@ namespace SchoolRecoedConsole
                     }
                     else
                     {
-                        Console.WriteLine();
-                        Console.WriteLine( "Admission Number Already Exists");
-                        Console.WriteLine("==================================");
+                        Console.Write(checkId);
                         stud.DisplayData();
                     }
                

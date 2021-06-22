@@ -54,7 +54,7 @@ namespace SchoolRecoedConsole
             else
             {
                 Console.WriteLine();
-                Console.WriteLine("No key found");
+                Console.WriteLine("No Admission Number Found");
                 Console.WriteLine("==================================");
             }
         }
@@ -111,7 +111,7 @@ namespace SchoolRecoedConsole
             else
             {
                 Console.WriteLine();
-                Console.WriteLine("No key found");
+                Console.WriteLine("No Admission Number Found");
                 Console.WriteLine("==================================");
             }
         }
@@ -123,9 +123,10 @@ namespace SchoolRecoedConsole
             {
                 
                 Console.WriteLine();
-                s="Admission Number Already present";
+                s="Admission Number Already Exists";
                 Console.WriteLine("==================================");
-                
+                Console.WriteLine();
+
             }
             return s;
         }

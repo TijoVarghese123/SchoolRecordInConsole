@@ -20,3 +20,16 @@ F:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp
 F:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.AssemblyInfo.cs
 F:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.dll
 F:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.pdb
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\bin\Debug\netcoreapp3.1\SchoolRecoedConsole.exe
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\bin\Debug\netcoreapp3.1\SchoolRecoedConsole.deps.json
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\bin\Debug\netcoreapp3.1\SchoolRecoedConsole.runtimeconfig.json
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\bin\Debug\netcoreapp3.1\SchoolRecoedConsole.runtimeconfig.dev.json
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\bin\Debug\netcoreapp3.1\SchoolRecoedConsole.dll
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\bin\Debug\netcoreapp3.1\SchoolRecoedConsole.pdb
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.csproj.AssemblyReference.cache
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.AssemblyInfoInputs.cache
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.AssemblyInfo.cs
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.csproj.CoreCompileInputs.cache
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.dll
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.pdb
+G:\LearnProgramming\SchoolRecoedConsole\SchoolRecoedConsole\obj\Debug\netcoreapp3.1\SchoolRecoedConsole.genruntimeconfig.cache
