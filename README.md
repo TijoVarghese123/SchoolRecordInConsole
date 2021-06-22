@@ -21,7 +21,7 @@ Added Successfully
 =================================
 AdmNo   Name    Marks
 =================================
-100     Anil Kumar      75
+100     Anil    75
 =================================
 
 Enter a Number
